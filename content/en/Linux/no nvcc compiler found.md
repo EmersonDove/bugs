@@ -1,5 +1,5 @@
 ---
-title: no mvcc compiler found
+title: no nvcc compiler found
 position: 1
 category: Linux
 
