@@ -1,0 +1,24 @@
+{
+  "name": "bugs",
+  "version": "1.0.0",
+  "description": "A log of bugs I've encountered & fixed (starts October 9th 2022)",
+  "main": "index.js",
+  "repository": "https://github.com/EmersonDove/bugs.git",
+  "author": "Emerson",
+  "scripts": {
+    "dev": "MINIMAL=1 CSB=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@babel/preset-env": "7.12.17",
+    "@nuxt/content-theme-docs": "0.7.2",
+    "nuxt": "2.14.7",
+    "rehype-katex": "^5.0.0",
+    "remark-math": "^4.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0"
+  }
+}

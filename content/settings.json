@@ -1,0 +1,10 @@
+{
+  "title": "Bugs",
+  "url": "https://bugs.emersondove.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "EmersonDove/bugs",
+  "twitter": "@EmersonDove"
+}
