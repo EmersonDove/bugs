@@ -7,9 +7,8 @@
   "author": "Emerson",
   "scripts": {
     "dev": "MINIMAL=1 CSB=1 nuxt",
-    "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "build": "nuxt generate"
   },
   "dependencies": {
     "@babel/preset-env": "7.12.17",
