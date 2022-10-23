@@ -2,7 +2,6 @@
 title: callback to member function from a static context
 position: 1
 category: C++
-
 ---
 
 Generally this shouldn't be done, refactor your code to not have to do this, but this does work as a patch solution for existing software.
