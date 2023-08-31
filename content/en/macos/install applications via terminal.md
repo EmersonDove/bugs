@@ -2,7 +2,6 @@
 title: Install Packages Via Terminal
 position: 1
 category: MacOS
-
 ---
 
 ## .pkg
